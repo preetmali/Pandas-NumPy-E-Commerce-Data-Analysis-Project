@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Unit_Price,Cost_Price
+P001,Wireless Mouse,Accessories,650,350
+P002,Mechanical Keyboard,Accessories,2200,1300
+P003,USB-C Hub,Accessories,1800,1050
+P004,Laptop 14-inch,Electronics,58000,47000
+P005,Gaming Laptop,Electronics,92000,76000
+P006,Smartphone 128GB,Electronics,28000,22500
+P007,Bluetooth Speaker,Electronics,3200,1900
+P008,Headphones,Electronics,4500,2700
+P009,Office Chair,Furniture,7800,5200
+P010,Study Desk,Furniture,9500,6400
+P011,Water Bottle,Lifestyle,450,180
+P012,Backpack,Lifestyle,1600,850
+P013,Desk Lamp,Furniture,1200,620
+P014,Webcam,Accessories,2600,1550
+P015,Power Bank,Electronics,1900,1100
+P016,Notebook Set,Stationery,350,140
+P017,Monitor 24-inch,Electronics,12500,9200
+P018,Phone Case,Accessories,400,100
+P019,Running Shoes,Lifestyle,3400,2100
+P020,Yoga Mat,Lifestyle,950,420
