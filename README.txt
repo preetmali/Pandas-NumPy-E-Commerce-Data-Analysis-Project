@@ -111,7 +111,6 @@ Add customer segmentation and purchase behavior analysis.
 Implement predictive sales analysis using Machine Learning.
 Deploy the dashboard online.
 👨‍💻 Author
-
-Your Name
+preet mali
 
 GitHub: https://github.com/preetmali
